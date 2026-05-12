@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "crud-api-sqlalchemy",
+      "title": "Building a CRUD API with SQLAlchemy",
+      "description": "Connect FastAPI endpoints to a SQLite database using SQLAlchemy ORM. Implement complete Create, Read, Update, and Delete operations on a persistent data model.",
+      "path": "assignments/crud-api-sqlalchemy",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
