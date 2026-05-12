@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a RESTful API using FastAPI, handling HTTP requests, path parameters, request bodies, and returning structured JSON responses.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
